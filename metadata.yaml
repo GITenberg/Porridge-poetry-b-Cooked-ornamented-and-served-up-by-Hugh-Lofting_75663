@@ -1,5 +1,8 @@
 _repo: Porridge-poetry-b-Cooked-ornamented-and-served-up-by-Hugh-Lofting_75663
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75663-h/images/cover.jpg
 creator:
   author:
     agent_name: Lofting, Hugh
@@ -11,6 +14,8 @@ creator:
 description: 'Illustrated by the author.
 
   Reading ease score: 75.4 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75663#Porridge-poetry-b-Cooked-ornamented-and-served-up-by-Hugh-Lofting
 gutenberg_bookshelf:
 - 'Browsing: Children & Young Adult Reading'
 - 'Browsing: Poetry'
